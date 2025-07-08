@@ -107,3 +107,18 @@ Acceleration is built as a modern full-stack application with three main compone
 - Smooth animations and transitions
 - Intuitive navigation
 
+## 👨‍💻 Author
+
+**Prathamesh Dukare**
+
+- **GitHub**: [@prathameshdukare](https://github.com/prathameshdukare)
+- **LinkedIn**: [Prathamesh Dukare](https://linkedin.com/in/prathameshdukare)
+- **Website**: [https://getacceleration.com](https://prathame.sh)
+- **Peerlist**: [https://getacceleration.com](https://peerlist.io/prathamesh)
+- **Peerlist**: [https://getacceleration.com](https://x.com/prathameshTwits)
+
+---
+
+**Made with ❤️ in India**
+
+
